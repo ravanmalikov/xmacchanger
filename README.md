@@ -23,7 +23,6 @@ python3 xmc.py [options]  -i (--interface) interface
 ### Options
 - `-r, --random`: Generate and set a random MAC address.
 - `-m, --mac MAC_ADDR`: Set a custom MAC address.
-- `-s, --show`: Show the current MAC address.
 - `-p, --permanent`: Restore the permanent(orginal) MAC address.
 - `-h, --help`: Display help information.
 
