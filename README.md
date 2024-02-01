@@ -14,7 +14,8 @@ xmacchanger is a command-line tool for changing the MAC address of a network int
 2. git clone https://github.com/yourusername/xmacchanger.git
 3. Navigate to the project directory:
    cd xmacchanger
-4. It's ready!!
+4. pip install -r requirements.txt
+5. It's ready!
 ## Usage
 python3 xmc.py [options]  -i (--interface) interface
 - `-i, --interface`: Name of the network interface (e.g., eth0, wlan0).
