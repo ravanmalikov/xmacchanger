@@ -3,7 +3,7 @@
 # xmc - this script will change the mac address which you want to change           #
 # Requirements: macchanger and ethtool needs to be installed                                  #
 # Written by: Ravan Malikov                                                        #
-# Github: https://github.com/ravanmalikov/XMacChanger/                             #
+# Github: https://github.com/ravanmalikov/xmacchanger/                             #
 ####################################################################################
 
 
